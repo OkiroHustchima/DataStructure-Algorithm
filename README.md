@@ -1,7 +1,10 @@
 # DataStructure&Algorithm
 #[@okirohustchima](https://github.com/OkiroHustchima)
+
 #电子版笔记资料是由本人复习期间整理所得。
+
 #包含数据结构各高效应试大纲的内容，复习时需深刻理解，多敲代码。
+
 #仅用于学习传播使用，不可倒卖。
 #
 #
